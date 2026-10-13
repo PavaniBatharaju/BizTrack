@@ -1,0 +1,6 @@
+{
+  "name": "BizTrack",
+  "description": "Smart Business Finance Tracking Made Simple - Track sales, expenses, profit, cash flow, invoices, and business forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
